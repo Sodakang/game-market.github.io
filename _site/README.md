@@ -72,5 +72,5 @@ Credits:
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/). -->
 
-The game market webpage developed for UCI CS 113 Computer Game Development.
+The game market webpage developed for UCI CS 113 Computer Game Development.  
 Template: https://gitlab.com/andrewbanchich/forty-jekyll-theme
